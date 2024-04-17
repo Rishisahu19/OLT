@@ -1,3 +1,5 @@
+http://192.168.10.2/Student/index.php?action=Launch
+
 for(let i = 0; i < n; i++){
     parent.window.a.secQuesMap[1][i][6] = parent.window.a.secQuesMap[1][i][3];
     parent.window.a.secQuesMap[1][i][2] = 1;
